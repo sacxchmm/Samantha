@@ -1,2 +1,2 @@
 # Samantha
-how are you
+git config --global user "Samantha Aleria"
